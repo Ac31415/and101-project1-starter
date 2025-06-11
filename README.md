@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Alt text](https://imgur.com/a/zD3nxqv.gif)
+![Alt text](https://i.imgur.com/G9nlpRk.gif)
 
 GIF created with **imgur**
 
